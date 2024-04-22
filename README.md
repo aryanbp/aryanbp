@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbp&label=Profile%20views&color=8355d8&style=plastic" alt="aryanbp" /> </p>
 
-- 🌱 I’m currently learning **Vue.js, Flutter, Pygame**
+- 🌱 I’m currently learning **Vue.js, Flutter, Unity**
 
 - 📫 How to reach me **aryanpanikar9@gmail.com**
 
